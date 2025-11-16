@@ -1,7 +1,10 @@
 # Exercise-06a-ProBuilder
 
+Created a scene with probuilder (focusing on fences)
+
 # References
 
 Textures from: https://freepbr.com/
 
-# Created by Nathan Mishler
+# Created by
+Sean Pletz
